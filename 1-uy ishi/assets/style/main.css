@@ -1,0 +1,188 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+body {
+    background-color: black;
+}
+
+
+.box {
+    width: 300px;
+    height: 450px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.942);
+    border-radius: 30px 30px 30px 30px;
+    margin-left: 289px;
+
+}
+
+.br {
+    margin-top: 20px;
+    color: red;
+}
+
+.bx {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr 1fr 1fr;
+
+}
+
+.btn1 {
+    width: 305px;
+    height: 63px;
+    margin-top: 28px;
+    border-radius: 0px 0px 20px 20px;
+    margin-left: -3px;
+    color: white;
+    position: absolute;
+    background-color: rgb(228, 42, 42)
+}
+
+.btn1:hover {
+    background-color: dodgerblue;
+    transition: 1s;
+}
+
+.df {
+    color: gray;
+}
+
+.rw {
+    color: rgb(222, 222, 40);
+}
+
+.img1 {
+    width: 170px;
+    margin-top: -1px;
+
+    margin-left: 65px;
+}
+
+.p1 {
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+.rt {
+    color: rgb(198, 31, 31);
+}
+
+.fa-solid {
+    color: rgb(228, 228, 84);
+    margin-top: 15px;
+}
+
+.box1 {
+    width: 300px;
+    height: 450px;
+    border: 1px solid white;
+    background-color: rgba(255, 255, 255, 0.942);
+    border-radius: 30px 30px 30px 30px;
+    margin-top: -449px;
+    margin-left: 620px;
+}
+
+.btn2 {
+    width: 305px;
+    height: 63px;
+    margin-top: 28px;
+    border-radius: 0px 0px 20px 20px;
+    margin-left: -3px;
+    color: white;
+    background-color: dodgerblue;
+    position: absolute;
+}
+
+.btn2:hover {
+    background-color: purple;
+    transition: 1s;
+}
+
+.er {
+    color: gray;
+}
+
+.rw {
+    color: rgb(222, 222, 40);
+}
+.img2 {
+    width: 170px;
+    margin-top: -1px;
+    border-radius: ;
+    margin-left: 65px;
+}
+.img1 {
+    width: 170px;
+    margin-top: -1px;
+    border-radius: ;
+    margin-left: 65px;
+}
+
+.p1 {
+    border: 1px solid black;
+    margin-top: 50px;
+}
+
+.raqam {
+    color: dodgerblue;
+}
+
+
+.box2 {
+    width: 300px;
+    height: 450px;
+    border: 1px solid white;
+    background-color: white;
+    border-radius: 30px 30px 30px 30px;
+    margin-top: -452px;
+    margin-left: 950px;
+}
+
+
+
+
+
+.img3 {
+    width: 146px;
+    margin-left: 79px;
+}
+    .btn3 {
+        width: 305px;
+        height: 63px;
+        margin-top: 36px;
+        border-radius: 0px 0px 20px 20px;
+        margin-left: -3px;
+        
+        color: white;
+        background-color: blue;
+        position: absolute;
+    }
+    
+    .btn3:hover {
+        background-color: yellow;
+        transition: 1s;
+    }
+    
+    .re{
+        color: gray;
+    }
+    
+    .rw {
+        color: rgb(222, 222, 40);
+    }
+
+    
+    .p1 {
+        border: 1px solid black;
+        margin-top: 50px;
+    }
+    
+    .raq{
+        color: blue;
+    }
+
